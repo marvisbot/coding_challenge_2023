@@ -13,6 +13,5 @@ Good Luck!<br />
 Rules:<br />
 1. You can install any libraries you want<br />
 2. We have a 0 tolerance policy for plagiarism<br />
-3. The deadline to complete this challenge is January 12th 2023 6PM IST <br />
-4. Once you have completed this challenge to the best of your ability, commit your project folder to your own github and submit a link to the google form. [HINT: Make sure your repo is public]<br />
+3. Once you have completed this challenge to the best of your ability, commit your project folder to your own github and submit a link to the google form. [HINT: Make sure your repo is public]<br />
 
